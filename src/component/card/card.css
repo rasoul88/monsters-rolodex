@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column;
     background-color: #95dada;
+    margin: 10px;
     border: 1px solid grey;
     border-radius: 5px;
     padding: 25px;
